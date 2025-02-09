@@ -1,0 +1,17 @@
+D:\TestGitHub\MVC\MagicPetsMVC\bin\Debug\net7.0\MagicPetsMVC.exe
+D:\TestGitHub\MVC\MagicPetsMVC\bin\Debug\net7.0\MagicPetsMVC.deps.json
+D:\TestGitHub\MVC\MagicPetsMVC\bin\Debug\net7.0\MagicPetsMVC.runtimeconfig.json
+D:\TestGitHub\MVC\MagicPetsMVC\bin\Debug\net7.0\MagicPetsMVC.dll
+D:\TestGitHub\MVC\MagicPetsMVC\bin\Debug\net7.0\MagicPetsMVC.pdb
+D:\TestGitHub\MVC\MagicPetsMVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.csproj.AssemblyReference.cache
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.AssemblyInfoInputs.cache
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.AssemblyInfo.cs
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.csproj.CoreCompileInputs.cache
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.csproj.CopyComplete
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.dll
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\refint\MagicPetsMVC.dll
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.pdb
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\MagicPetsMVC.genruntimeconfig.cache
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0\ref\MagicPetsMVC.dll

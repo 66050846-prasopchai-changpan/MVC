@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 77606861,
+    "Type": "owl",
+    "LastHealthCheck": "11022004",
+    "VaccineCount": 70,
+    "Status": "Rejected"
+  },
+  {
+    "Id": 12524053,
+    "Type": "owl",
+    "LastHealthCheck": "12072005",
+    "VaccineCount": 15,
+    "Status": "Accepted"
+  },
+  {
+    "Id": 56110647,
+    "Type": "phoenix",
+    "LastHealthCheck": "14052001",
+    "VaccineCount": 45,
+    "Status": "Accepted"
+  }
+]
