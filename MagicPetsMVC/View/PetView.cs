@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using MagicPetsMVC.Model;
 
 
+
 namespace MagicPetsMVC.View
 {
     // คลาส PetView ใช้สำหรับแสดงผลลัพธ์ใน View ของแอปพลิเคชัน
@@ -10,7 +11,7 @@ namespace MagicPetsMVC.View
     {
         Pet pet = new Pet(); //เรียกใช้ Class Pet
 
-         // ฟังก์ชัน ShowMessage ใช้สำหรับแสดงข้อความในคอนโซล
+        // ฟังก์ชัน ShowMessage ใช้สำหรับแสดงข้อความในคอนโซล
         public static void ShowMessage(string message)
         {
             Console.WriteLine(message);
@@ -37,4 +38,5 @@ namespace MagicPetsMVC.View
             }
         }
     }
+    
 }

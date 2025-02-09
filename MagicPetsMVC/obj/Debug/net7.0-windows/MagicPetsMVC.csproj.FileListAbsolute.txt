@@ -1,0 +1,4 @@
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0-windows\MagicPetsMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0-windows\MagicPetsMVC.AssemblyInfoInputs.cache
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0-windows\MagicPetsMVC.AssemblyInfo.cs
+D:\TestGitHub\MVC\MagicPetsMVC\obj\Debug\net7.0-windows\MagicPetsMVC.csproj.CoreCompileInputs.cache

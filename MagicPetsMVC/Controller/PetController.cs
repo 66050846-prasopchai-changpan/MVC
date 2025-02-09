@@ -48,7 +48,7 @@ namespace MagicPetsMVC.Controller
                 return;
             }
 
-             // สร้างอ็อบเจ็กต์ Pet และกำหนดข้อมูลต่างๆ
+            // สร้างอ็อบเจ็กต์ Pet และกำหนดข้อมูลต่างๆ
             Pet pet = new Pet { Id = petId, Type = petType, LastHealthCheck = lastHealthCheck, VaccineCount = vaccineCount, Status = status }; // เพิ่มสัตว์เลี้ยงใหม่เข้าไปในฐานข้อมูล
             database.AddPet(pet);
             PetView.ShowMessage($"✅ Animal added successfully! ID: {petId} Status: {status}");
@@ -61,4 +61,5 @@ namespace MagicPetsMVC.Controller
             PetView.DisplayReport(pets);
         }
     }
+    
 }
